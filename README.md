@@ -28,5 +28,10 @@ Open to different types of collaboration, but I prefer long-term opportunities.
 
 ---
 
-📫 **Get in touch**  
-Feel free to reach out if you’d like to collaborate or discuss a project.
+## 📂 See my code once — it speaks louder than a thousand resumes
+You can find examples of my code in my GitHub repository: [https://github.com/ndrew-sh](https://github.com/ndrew-sh)
+
+---
+
+## 📫 **Get in touch**  
+<a href="mailto:&#115;&#104;&#117;&#108;&#116;&#122;&#46;&#97;&#110;&#100;&#114;&#101;&#121;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">Email me</a>
